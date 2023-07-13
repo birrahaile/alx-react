@@ -2,12 +2,6 @@
 
 `Front-end` `JavaScript` `ES6` `React`
 
-|By: Johann Kerbrat, Engineering Manager at Uber Works|
-|:--|
-|Weight: 1|
-|Project will start Feb 20, 2023 6:00 AM, must end by Feb 24, 2023 6:00 AM|
-|Manual QA review must be done (request it when you are done with the project)|
-
 ![action meme](../images/action-meme.jpeg)
 
 ## Resources
